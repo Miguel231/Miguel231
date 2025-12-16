@@ -1,8 +1,20 @@
-# Hi there, I'm Miguel Arpa Robig 👋
+<div align="center">
+  
+# 👋 Hi there, I'm Miguel Arpa Robig
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+Student+%40+UAB;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Always+Learning%2C+Always+Coding" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
 🎓 **AI Student** at Universitat Autònoma de Barcelona (UAB)  
 📍 Based in Barcelona, Catalonia  
 🤖 Passionate about Artificial Intelligence and Machine Learning
+
+</div>
+
+---
 
 ## 🔬 About Me
 
